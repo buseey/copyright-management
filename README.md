@@ -87,5 +87,5 @@ Bu proje, telif haklarınızı yönetmek için kullanabileceğiniz bir web aray�
 ## Bağlantılar
 
 - [GitHub Repository](https://github.com/buseey/copyright-management.git)
-- YouTube videosunu izlemek için [tıklayınız](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- YouTube videosunu izlemek için [tıklayınız](https://www.youtube.com/watch?v=8bhenS5c_vA)
 
